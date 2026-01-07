@@ -1,4 +1,4 @@
-# PS7 Job & Internship Aggregator
+# Job & Internship Aggregator
 
 ## 🚀 Overview
 *Hirely* is a powerful *Chrome extension* designed to simplify your job search. Instead of switching between multiple platforms like LinkedIn, Wellfound, and Indeed, this extension aggregates job listings in one place. With intuitive search and filter options, users can find relevant opportunities faster and apply directly. *Extensions offer quick access and seamless integration*, saving time compared to traditional websites.
